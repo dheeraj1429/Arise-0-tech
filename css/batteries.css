@@ -1,0 +1,14 @@
+.border_image{
+    border: 2px solid #f6f6f6;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+}
+.line_batteries{
+    max-width: 100%;
+    height: 2px;
+    background-color: #f6f6f6;
+}
+.bi_down{
+    padding: 5px;
+}
